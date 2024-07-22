@@ -32,4 +32,6 @@ print(round(3.7))
 #converting number to binary string
 print(bin(5))
 from math import * 
+from math import floor
 print(sqrt(100))
+print(floor(4.7))
