@@ -35,3 +35,10 @@ from math import *
 from math import floor
 print(sqrt(100))
 print(floor(4.7))
+#taking user input 
+# user = input("what is your name?")
+# userAge = int(input("what is your age?"))
+# print("your name is " + user + " and your age is " ,userAge)  
+#python Exercise 
+userSentence = input("Enter your sentence") 
+print(userSentence)
