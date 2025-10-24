@@ -55,3 +55,9 @@ print(friends[0][2])
 print(friends[1 :] )
 print(friends[-1])
 print(type(friends))
+number_add = 23 + 96 
+print(number_add)
+
+def add(b,c):
+   print(b+c)
+print(add(35,60))
